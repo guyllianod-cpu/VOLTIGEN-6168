@@ -1,0 +1,15 @@
+ # Progress
+ - Approved plan: /home/user/plan.md.
+ - App initialized; provided brand assets copied; reference inspected (dark technical monospace landing page).
+ - Design direction recorded before UI. Font files self-hosted.
+ - Completed: original French content, responsive UI, persisted contact/appointment request procedures; schema pushed successfully.
+ - Lint: zero warnings/errors. Production build passed (non-blocking bundle size warning).
+ - Browser tests: desktop 1440px and mobile 390px; no horizontal overflow or JavaScript errors; mobile menu opens/closes; article has four readable sections.
+ - Forms: empty submission blocked, network failure displayed, past date blocked in browser and rejected by API with 400. Successful contact and appointment submissions verified directly in database (pending status).
+ - Two clearly labeled internal test requests retained: VI-0a02b795-a8a5-48cc-b51c-745949a4be2b and RDV-6d8edcc5-bc06-482d-a844-d9bb4d90e7f7, validation@example.com. Not commercial requests.
+ - Dev server running in tmux varta-web, port 4200. Ready for website delivery.
+ - Publication blockers: legal identity/coordinates, confirmed ranges and real portfolio, recipient and request handling process. No mail notifications configured.
+ - Approved addition completed: /a-propos page with exact user copy and supplied graphene oxide image (original aspect ratio); links in desktop/mobile navigation, footer and activity section.
+ - WhatsApp +447403628858 centralized in company.ts. Contact, footer, About CTA and bottom-left floating link all target https://wa.me/447403628858 with new-tab safety attributes. No messages sent, no API integration.
+ - Validation for addition: lint zero errors/warnings; production build passed (existing non-blocking bundle-size warning). Browser checked 1440, 900, 801, 800 and 390px: no overflow/JS errors, navigation works, image loaded, Contact tabs and empty-form validation preserved. Exact text and keyboard focus verified; desktop/mobile screenshots reviewed. index.html hash unchanged (favicon/OG untouched).
+ - Remaining publication blockers unchanged apart from WhatsApp now provided. Server verified responding on fixed port 4200; ready for updated website delivery.
